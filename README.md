@@ -16,4 +16,4 @@ I'm a passionate **Frontend Developer** focused on building clean, responsive we
 ![Ayush's GitHub stats](https://vercel.app)
 
 ---
-📫 **How to reach me:** [your-email@gmail.com](mailto:react.dev15601@gmail.com)
+📫 **How to reach me:** [react.dev15601@gmail.com](mailto:your-email@gmail.com) 
