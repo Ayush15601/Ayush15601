@@ -13,7 +13,7 @@ I'm a passionate **Frontend Developer** focused on building clean, responsive we
 - **[Portfolio Website](link-to-portfolio)**: A sleek personal site showcasing my journey and projects.
 
 ### 📈 GitHub Stats
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush15601&show_icons=true)
+![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Ayush15601)
 
 ---
 📫 **How to reach me:** [react.dev15601@gmail.com](mailto:your-email@gmail.com) 
