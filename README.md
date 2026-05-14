@@ -1,4 +1,4 @@
-# Hi! I'm Ayush B.Tech CSE Graduate
+# Hi! I'm Ayush
 
 I'm a passionate **Frontend Developer** focused on building clean, responsive web applications.
 
