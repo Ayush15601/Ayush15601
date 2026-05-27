@@ -11,6 +11,7 @@ I'm a passionate **Frontend Developer** focused on building clean, responsive we
 ### Key Projects
 - **[Weather App]([link-to-repo](https://github.com/Ayush15601/Weather-app)**: Real-time weather forecasting using React & OpenWeather API.
 - **[Portfolio Website]([link-to-portfolio](https://github.com/Ayush15601/Weather-app)**: A sleek personal site showcasing my journey and projects.
+- **[Movie Search App]([link-to-portfolio](https://github.com/Ayush15601/Movie_search_engine)**: Real-time movie search app using React and TMDB API. 
 
 ### GitHub Stats
 ![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Ayush15601)
