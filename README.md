@@ -12,7 +12,7 @@ I'm a passionate **Frontend Developer** focused on building clean, responsive we
 - **[Weather App]([link-to-repo](https://github.com/Ayush15601/Weather-app)**: Real-time weather forecasting using React & OpenWeather API.
 - **[Portfolio Website]([link-to-portfolio](https://github.com/Ayush15601/Weather-app)**: A sleek personal site showcasing about me and my projects.
 - **[Movie Search App]([link-to-portfolio](https://github.com/Ayush15601/Movie_search_engine)**: Real-time movie search app using React and TMDB API.
-- - **[Movie Search App]([link-to-portfolio](https://github.com/Ayush15601/chat-gpt-clone)**: A chatbot providing real-time AI responses and dynamic markdown rendering.
+- **[ChatGPT clone]([link-to-portfolio](https://github.com/Ayush15601/chat-gpt-clone)**: A chatbot providing real-time AI responses and dynamic markdown rendering.
 
 ### GitHub Stats
 ![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Ayush15601)
