@@ -9,8 +9,8 @@ I'm a passionate **Frontend Developer** focused on building clean, responsive we
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
 ### Key Projects
-- **[Weather App]([link-to-repo](https://github.com/Ayush15601/Weather-app)**: Real-time weather forecasting using React & OpenWeather API.
-- **[Portfolio Website]([link-to-portfolio](https://github.com/Ayush15601/Weather-app)**: A sleek personal site showcasing about me and my projects.
+- **[e-commerce_cart]([link-to-repo](https://github.com/Ayush15601/e-commerce_cart)**: Real-time e-commerce shopping using React-Redux & FakeStore API.
+- **[Portfolio Website]([link-to-portfolio](https://github.com/Ayush15601/Portfolio)**: A sleek personal site showcasing about me and my projects.
 - **[Movie Search App]([link-to-portfolio](https://github.com/Ayush15601/Movie_search_engine)**: Real-time movie search app using React and TMDB API.
 - **[ChatGPT clone]([link-to-portfolio](https://github.com/Ayush15601/chat-gpt-clone)**: A chatbot providing real-time AI responses and dynamic markdown rendering.
 
